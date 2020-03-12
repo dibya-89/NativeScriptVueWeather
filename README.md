@@ -13,7 +13,7 @@ Weather App using Native Script VUE
 npm install
 
 # Preview on device
-tns preview
+tns run android --bundle
 
 # Build, watch for changes and run the application
 tns run
