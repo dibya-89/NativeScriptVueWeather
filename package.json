@@ -16,7 +16,7 @@
   },
   "dependencies": {
     "@nativescript/theme": "^2.2.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "nativescript-vue": "^2.4.0",
     "tns-core-modules": "^6.0.0"
   },
